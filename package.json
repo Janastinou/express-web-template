@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-web-template",
+  "version": "2.0.0",
+  "main": "Server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janastinou/express-web-template.git"
+  },
+  "author": "Janastinou <contact@janast.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janastinou/express-web-template/issues"
+  },
+  "homepage": "https://github.com/Janastinou/express-web-template#readme"
+}
